@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Akhi
+### Hi there 👋, I'm Akhi Azim Papri
 
-*Let's connect with...*
+*Let's connect with... *
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhi-azim-papri/)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/akhiazimpapri)
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21479030/akhi-azim-papri)
@@ -35,6 +35,6 @@
 <!--  Metrics Bar -->
 <!-- ![GitHub metrics](https://metrics.lecoq.io/akhiazimpapri) -->
 <!--  Profile Views -->
-![Profile views](https://gpvc.arturio.dev/akhiazimpapri)  
+<!--![Profile views](https://gpvc.arturio.dev/akhiazimpapri) -->
 
 <img align="center" src="https://profile-counter.glitch.me/{akhiazimpapri}/count.svg" /> 
