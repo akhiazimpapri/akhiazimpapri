@@ -36,5 +36,5 @@
 <!-- ![GitHub metrics](https://metrics.lecoq.io/akhiazimpapri) -->
 <!--  Profile Views -->
 <!--[Profile views](https://gpvc.arturio.dev/akhiazimpapri) -->
-<p font-color:black;>Profile Views</p>
+<p><b>Profile Views</b></p>
 <img align="center" src="https://profile-counter.glitch.me/{akhiazimpapri}/count.svg" /> 
