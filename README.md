@@ -8,18 +8,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://web.telegram.org/a/)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/akhiazim01)
 
-<div align="center">
-     <table>
-   <h1 align="center">Github Stats</h1>
-       <tr>
-       <td><img alt="akhiazimpapri :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=akhiazimpapri&theme=nightowl&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td><img alt="akhiazimpapri :: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiazimpapri&langs_count=8&theme=nightowl&layout=compact&hide=html&hide_border=true"> </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akhiazimpapri&theme=nightowl&hide_border=true">  </td>
-     </tr>
-   </table>
-</div>
+![](https://raw.githubusercontent.com/akhiazimpapri/akhiazimpapri/master/profile-summary-card-output/algolia/0-profile-details.svg)
 
 <div align="center">
    <h1 align="center">Github Stats</h1>
