@@ -8,7 +8,7 @@
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111646.png' alt='telegram' height='40'>](https://web.telegram.org/a/)
 [<img src='https://cdn-icons-png.flaticon.com/512/3670/3670124.png' alt='facebook' height='40'>](https://www.facebook.com/akhiazim01)
 
-<!-- <div align="center">
+<div align="center">
      <table>
    <h1 align="center">Github Stats</h1>
        <tr>
@@ -19,7 +19,7 @@
         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=akhiazimpapri&theme=nightowl&hide_border=true">  </td>
      </tr>
    </table>
-</div> -->
+</div>
 
 <div align="center">
    <h1 align="center">Github Stats</h1>
