@@ -33,7 +33,7 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=akhiazimpapri) -->
     
 <!--  Metrics Bar -->
-<!-- ![GitHub metrics](https://metrics.lecoq.io/akhiazimpapri) -->
+<!-- ![GitHub metrics](https://metrics.lecoq.io/akhiazimpapri)-->
 <!--  Profile Views -->
 [Profile views: ](https://gpvc.arturio.dev/akhiazimpapri)
 
