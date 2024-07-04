@@ -13,7 +13,6 @@
    <h1 align="center">Github Stats</h1>
   <a href="https://github.com/akhiazimpapri">
   <img height="180em" src="https://raw.githubusercontent.com/akhiazimpapri/akhiazimpapri/master/profile-summary-card-output/aura/0-profile-details.svg"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akhiazimpapri&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhiazimpapri&layout=compact&langs_count=6&theme=nightowl"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=akhiazimpapri&layout=compact&langs_count=6&theme=nightowl"/>
  </div>
