@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Akhi Azim Papri
 
 ## 🚀 About Me
-👩‍💻 I'm a front-end developer 
+👩‍💻 I'm a front-end developer <br>
 🧠 I'm currently learning Node.js and React
 
 ## 🛠 Skills
