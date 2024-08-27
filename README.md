@@ -5,8 +5,8 @@
 🧠 I'm currently learning Node.js and React
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, java, C, C++
-<hr>
+HTML, CSS, JavaScript, java, C, C++ <br>
+
 ## Let's connect with...* <br>
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhi-azim-papri/)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/akhiazimpapri)
