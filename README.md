@@ -7,7 +7,7 @@
 ## 🛠 Skills
 HTML, CSS, JavaScript, java, C, C++ <br>
 
-## Let's connect with...
+# Let's connect with...
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhi-azim-papri/)
 [<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/akhiazimpapri)
 [<img src='https://cdn-icons-png.flaticon.com/512/2111/2111628.png' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21479030/akhi-azim-papri)
