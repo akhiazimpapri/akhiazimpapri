@@ -2,11 +2,10 @@
 
 ## 🚀 About Me
 👩‍💻 I'm a front-end developer 
+🧠 I'm currently learning Node.js and React
 
-🧠 I'm currently learning React, PHP and Laravel
 ## 🛠 Skills
-
-HTML, CSS, JavaScript, Python, C,C++
+HTML, CSS, JavaScript, java, C, C++
 
 *Let's connect with...* <br>
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhi-azim-papri/)
