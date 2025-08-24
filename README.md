@@ -5,7 +5,7 @@
 🧠 I'm currently learning Node.js and React
 
 ### 🛠 Skills 
-HTML, CSS, JavaScript, Java, C, C++, Python, Digital Image Processing <br>
+HTML, CSS, JavaScript, Java, C, C++, Python, ML <br>
 
 ### 🌐 Let's connect with... 
 [<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhi-azim-papri/)
