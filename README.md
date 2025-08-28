@@ -21,6 +21,5 @@ HTML, CSS, JavaScript, Java, C, C++, Python, ML <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akhiazimpapri)](https://git.io/streak-stats) 
 
 <!--  Profile Views -->
-[Profile views: ](https://gpvc.arturio.dev/akhiazimpapri)
 
 <img align="center" src="https://profile-counter.glitch.me/{akhiazimpapri}/count.svg" />
