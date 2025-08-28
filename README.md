@@ -22,4 +22,4 @@ HTML, CSS, JavaScript, Java, C, C++, Python, ML <br>
 
 <!--  Profile Views -->
 
-<img align="center" src="https://profile-counter.glitch.me/{akhiazimpapri}/count.svg" />
+
